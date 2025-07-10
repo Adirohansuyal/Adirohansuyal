@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python programming, web development and c programming**
 
-- 📫 How to reach me **adityasuyal0001@gmail.com**
+- 📫 How to reach me **adityasuyal@birlainstitute.co.in**
 
 - ⚡ Fun fact **Coding is fun!!**
 
