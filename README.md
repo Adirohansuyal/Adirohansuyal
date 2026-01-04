@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Suyal</h1>
+<h1 align="center">Hi 👋, I'm ADITYA SUYAL</h1>
 # 💫 About Me:
 
 I'm Currently working on Projects related to Generative AI and Agentic AI<br>
