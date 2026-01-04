@@ -19,7 +19,7 @@ I'm Currently working on Projects related to Generative AI and Agentic AI<br>
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Adirohansuyal&theme=github&hide_border=false&area=true&color=00ff00&line=00ff00&point=00ff00)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Adirohansuyal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Adirohansuyal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Adirohansuyal&icon=0&color=0)](https://visitcount.itsvg.in)
