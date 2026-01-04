@@ -47,11 +47,7 @@ I'm Currently working on Projects related to Generative AI and Agentic AI<br>
 ![](https://github-profile-trophy.vercel.app/?username=Adirohansuyal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-  <em>View my <a href="https://skyline.github.com/Adirohansuyal/2024">3D contribution graph</a> for 2024</em>
-</p>
-
----
-[![](https://visitcount.itsvg.in/api?id=Adirohansuyal&icon=0&color=0)](https://visitcount.itsvg.in)
+  
 
 
 
