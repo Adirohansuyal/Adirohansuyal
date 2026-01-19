@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Suyal</h1>
-# About Me:
 
+
+## About Me:
 I'm Currently working on Projects related to Generative AI and Agentic AI<br>
 
 
