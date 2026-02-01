@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## 👨‍💻 About Me
+## 👨‍💻 ABOUT ME
 
 🔭 Currently working on **Projects related to Generative AI and Agentic AI**
 
@@ -30,7 +30,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
-## 🚀 Tech Stack
+## 🚀 TECH STACK
 
 <details open>
 <summary><b>🔷 Languages</b></summary>
@@ -124,7 +124,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
-## 📊 GitHub Statistics
+## 📊 GITHUB STATISTICS
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adirohansuyal&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800&include_all_commits=true" />
@@ -142,7 +142,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
-## 🌐 Connect With Me
+## 🌐 CONNECT WITH ME
 
 <p align="center">
   <a href="https://linkedin.com/in/aditya-suyal">
