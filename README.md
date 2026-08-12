@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1E3A8A&height=120&section=header&text=HI%20👋%20I'M%20ADITYA%20SUYAL&fontSize=40&fontColor=fff&animation=fadeIn"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI+Engineer;Generative+AI+%7C+Agentic+AI;Machine+Learning+Enthusiast;Building+Intelligent+Systems" />
