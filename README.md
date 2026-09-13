@@ -1,34 +1,23 @@
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     CINEMATIC HEADER                         -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                        HEADER                                -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D1A,30:0F0C29,60:302B63,100:24243e&height=300&section=header&text=ADITYA%20SUYAL&fontSize=90&fontColor=38BDF8&animation=fadeIn&fontAlignY=42&stroke=38BDF8&strokeWidth=2&desc=Senior%20AI%20Engineer%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20MLOps&descAlignY=62&descSize=18&descColor=94A3B8" width="100%"/>
-
-</div>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    TYPING ANIMATION                          -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D1A,30:0F0C29,60:302B63,100:24243e&height=280&section=header&text=ADITYA%20SUYAL&fontSize=85&fontColor=38BDF8&animation=fadeIn&fontAlignY=42&stroke=38BDF8&strokeWidth=2&desc=Senior%20AI%20Engineer%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20MLOps&descAlignY=62&descSize=17&descColor=94A3B8" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=⚡+Building+AI+that+thinks%2C+reasons+%26+acts+autonomously;🧠+LLM+Pipelines+→+Agentic+Workflows+→+Production+Systems;🚀+From+raw+data+to+deployed+intelligence+—+end+to+end;🔬+RAG+%7C+Multi-Agent+Orchestration+%7C+MLOps+%7C+Cloud+AI;🌐+Engineering+the+Future+of+Intelligent+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=⚡+Building+AI+that+thinks%2C+reasons+%26+acts+autonomously;🧠+LLM+Pipelines+→+Agentic+Workflows+→+Production+Systems;🚀+From+raw+data+to+deployed+intelligence+—+end+to+end;🔬+RAG+%7C+Multi-Agent+Orchestration+%7C+MLOps+%7C+Cloud+AI)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://linkedin.com/in/aditya-suyal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="mailto:adityasuyal@birlainstitute.co.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<a href="https://github.com/Adirohansuyal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-&nbsp;
-<a href="https://x.com/AdityaSuyal0001"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Adirohansuyal&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-suyal)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityasuyal@birlainstitute.co.in)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adirohansuyal)
+[![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AdityaSuyal0001)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/suyal.adi_0001)
+[![Profile Views](https://komarev.com/ghpvc/?username=Adirohansuyal&label=Profile+Views&color=38BDF8&style=for-the-badge)](https://github.com/Adirohansuyal)
 
 </div>
 
@@ -36,35 +25,27 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
+<br/>
+
+<!-- ██████████████████████████████████████████████████████████████ -->
 <!--                        ABOUT ME                              -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
-<div align="center">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
-## 🧬 About Me
+## 👨‍💻 &nbsp;About Me
 
-</div>
+Hi, I'm **Aditya** — a **Senior AI Engineer** from India 🇮🇳
 
-<br/>
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" />
-
-### 👋 Hey, I'm Aditya
-
-I'm a **Senior AI Engineer** from India 🇮🇳 specializing in building **production-grade intelligent systems** — not just prototypes.
-
-My work lives at the intersection of **Generative AI**, **Agentic Workflows**, and **Cloud-native MLOps**. I architect systems that move from raw, messy enterprise data all the way to autonomous AI agents that reason, act, and improve.
+I build **production-grade intelligent systems** at the intersection of Generative AI, Agentic Workflows, and Cloud-native MLOps. Not prototypes — systems that scale, observe themselves, and improve over time.
 
 <br/>
 
-| 🔭 **Building**   | Autonomous agentic pipelines for complex, real-world enterprise data |
-|-------------------|---------------------------------------------------------------------|
-| 🌱 **Learning**   | Advanced DSA · LLM Fine-tuning at Scale · Multi-Modal Systems       |
-| 💡 **Expertise**  | Generative AI · RAG · Multi-Agent Systems · MLOps · Cloud AI        |
-| 🤝 **Open To**    | Collaborations · Open Source · AI Research · Consulting             |
-| 📍 **Location**   | India 🇮🇳                                                           |
-| 📬 **Contact**    | adityasuyal@birlainstitute.co.in                                    |
+🔭 &nbsp;**Currently Building** — Autonomous agentic pipelines for enterprise data  
+🌱 &nbsp;**Currently Learning** — LLM Fine-tuning · Multi-Modal AI · Advanced DSA  
+💡 &nbsp;**Core Domains** — Generative AI · RAG · Multi-Agent Systems · MLOps  
+🤝 &nbsp;**Open To** — Collaborations · Open Source · AI Research · Consulting  
+📬 &nbsp;**Reach Me** — adityasuyal@birlainstitute.co.in  
 
 <br clear="right"/>
 
@@ -74,119 +55,149 @@ My work lives at the intersection of **Generative AI**, **Agentic Workflows**, a
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     WHAT I BUILD                             -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<br/>
+
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                      WHAT I BUILD                            -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-## 🚀 What I Build
+## 🚀 &nbsp;What I Build
 
 </div>
 
 <br/>
 
 <div align="center">
-
 <table>
 <tr>
 
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Generative_&_Agentic_AI-0F0C29?style=for-the-badge&logoColor=38BDF8" /><br/><br/>
-🤖
-<br/><br/>
-<b>Production RAG Pipelines</b><br/>
-<sub>Hybrid retrieval · Re-ranking · Citation grounding · Hallucination guards</sub>
-<br/><br/>
-<b>Multi-Agent Orchestration</b><br/>
-<sub>LangGraph · CrewAI · AutoGen · Task decomposition · Persistent memory</sub>
-<br/><br/>
-<b>LLM Integration at Scale</b><br/>
-<sub>OpenAI · Anthropic · Gemini · Llama · Mistral · Mixtral</sub>
-<br/><br/>
-<b>Prompt Engineering</b><br/>
-<sub>Chain-of-thought · ReAct · Self-correction · Structured output with Pydantic</sub>
+<td align="center" valign="top" width="25%">
+
+### 🤖 GenAI & Agents
+
+**Production RAG Pipelines**
+<br/><sub>Hybrid retrieval · Re-ranking · Citation grounding · Hallucination guards</sub>
+
+<br/>
+
+**Multi-Agent Orchestration**
+<br/><sub>LangGraph · CrewAI · AutoGen · Task decomposition · Persistent memory</sub>
+
+<br/>
+
+**LLM Integration at Scale**
+<br/><sub>OpenAI · Anthropic · Gemini · Llama · Mistral · Mixtral</sub>
+
+<br/>
+
+**Prompt Engineering**
+<br/><sub>Chain-of-thought · ReAct · Self-correction · Structured output</sub>
+
 </td>
 
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Machine_Learning_&_Data_Science-0F0C29?style=for-the-badge&logoColor=38BDF8" /><br/><br/>
-📊
-<br/><br/>
-<b>End-to-End ML Pipelines</b><br/>
-<sub>Ingestion → Features → Training → Serving</sub>
-<br/><br/>
-<b>Deep Learning</b><br/>
-<sub>CNNs · RNNs · Transformers · Attention mechanisms · ViTs</sub>
-<br/><br/>
-<b>NLP Systems</b><br/>
-<sub>Classification · NER · Embeddings · Semantic search · Topic modeling</sub>
-<br/><br/>
-<b>Explainability & Evaluation</b><br/>
-<sub>SHAP · LIME · Attention viz · Offline metrics · Production tracking</sub>
+<td align="center" valign="top" width="25%">
+
+### 📊 ML & Data Science
+
+**End-to-End ML Pipelines**
+<br/><sub>Ingestion → Features → Training → Serving</sub>
+
+<br/>
+
+**Deep Learning**
+<br/><sub>CNNs · RNNs · Transformers · Attention · ViTs</sub>
+
+<br/>
+
+**NLP Systems**
+<br/><sub>Classification · NER · Embeddings · Semantic search</sub>
+
+<br/>
+
+**Explainability & Eval**
+<br/><sub>SHAP · LIME · Attention viz · Production tracking</sub>
+
 </td>
 
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/MLOps_&_Cloud_Engineering-0F0C29?style=for-the-badge&logoColor=38BDF8" /><br/><br/>
-☁️
-<br/><br/>
-<b>Model Deployment Infrastructure</b><br/>
-<sub>AWS SageMaker · Lambda · ECS · Real-time & batch inference</sub>
-<br/><br/>
-<b>CI/CD for ML</b><br/>
-<sub>MLflow · Jenkins · GitHub Actions · Automated retraining</sub>
-<br/><br/>
-<b>Container-Native Serving</b><br/>
-<sub>Docker · Kubernetes · Horizontal scaling for LLMs</sub>
-<br/><br/>
-<b>Production Observability</b><br/>
-<sub>Drift detection · Alerting · Latency · Throughput · Cost tracking</sub>
+<td align="center" valign="top" width="25%">
+
+### ☁️ MLOps & Cloud
+
+**Model Deployment**
+<br/><sub>AWS SageMaker · Lambda · ECS · Batch & real-time inference</sub>
+
+<br/>
+
+**CI/CD for ML**
+<br/><sub>MLflow · Jenkins · GitHub Actions · Auto-retraining</sub>
+
+<br/>
+
+**Container-Native Serving**
+<br/><sub>Docker · Kubernetes · Horizontal LLM scaling</sub>
+
+<br/>
+
+**Observability**
+<br/><sub>Drift detection · Alerting · Latency · Cost tracking</sub>
+
 </td>
 
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Software_&_Systems_Engineering-0F0C29?style=for-the-badge&logoColor=38BDF8" /><br/><br/>
-🔧
-<br/><br/>
-<b>High-Throughput REST APIs</b><br/>
-<sub>FastAPI (async, production-hardened) · Rate limiting · Auth · Caching</sub>
-<br/><br/>
-<b>Backend Architecture</b><br/>
-<sub>Django monolith → microservices · Event-driven design</sub>
-<br/><br/>
-<b>Vector & Graph Data Layers</b><br/>
-<sub>Pinecone · FAISS · ChromaDB · Neo4j knowledge graphs</sub>
-<br/><br/>
-<b>Streaming Pipelines</b><br/>
-<sub>Kafka · Redis Streams · Real-time data orchestration</sub>
+<td align="center" valign="top" width="25%">
+
+### 🔧 Systems & Backend
+
+**High-Throughput APIs**
+<br/><sub>FastAPI async · Rate limiting · Auth · Caching</sub>
+
+<br/>
+
+**Backend Architecture**
+<br/><sub>Django · Monolith → Microservices · Event-driven</sub>
+
+<br/>
+
+**Vector & Graph Layers**
+<br/><sub>Pinecone · FAISS · ChromaDB · Neo4j</sub>
+
+<br/>
+
+**Streaming Pipelines**
+<br/><sub>Kafka · Redis Streams · Real-time orchestration</sub>
+
 </td>
 
 </tr>
 </table>
-
 </div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--               AI ENGINEERING STACK VISUAL                    -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<br/>
+
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                    AI ENGINEERING STACK                      -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-## 🏗️ My AI Engineering Stack
+## 🏗️ &nbsp;AI Engineering Stack
 
-*Every model I ship is surrounded by the engineering that makes it reliable, observable, and improvable.*
+*Every model I ship is surrounded by engineering that makes it reliable, observable, and improvable.*
 
 <br/>
 
-| 🔢 Layer | ⚙️ What Lives Here |
-|:---------:|:-------------------|
+| &nbsp;&nbsp;&nbsp;Layer&nbsp;&nbsp;&nbsp; | What Lives Here |
+|:---:|:---|
 | 🗄️ **Data** | Ingestion → Cleaning → Chunking → Embedding → Vector Store · Graph DB · Feature Store |
-| 🧠 **Reasoning** | RAG + Hybrid Retrieval → Re-ranking → LLM Chain · Structured Output · Guardrails · Hallucination Guards |
-| 🤖 **Agentic** | Tool-Use → Memory → Planning → Self-Correction · Multi-Agent Orchestration · Reflection Loops |
-| 🚀 **Deployment** | FastAPI → Docker → Kubernetes → AWS · CI/CD Pipeline · Blue-Green Deploys · A/B Testing |
-| 📡 **Observability** | Logging → Drift Detection → Latency Tracking · Alerting · Cost Monitoring · Feedback Loops |
+| 🧠 **Reasoning** | RAG + Hybrid Retrieval → Re-ranking → LLM Chain · Structured Output · Guardrails |
+| 🤖 **Agentic** | Tool-Use → Memory → Planning → Self-Correction · Multi-Agent Loops · Reflection |
+| 🚀 **Deployment** | FastAPI → Docker → Kubernetes → AWS · CI/CD · Blue-Green Deploys · A/B Testing |
+| 📡 **Observability** | Logging → Drift Detection → Latency · Alerting · Cost Monitoring · Feedback Loops |
 
 </div>
 
@@ -194,13 +205,15 @@ My work lives at the intersection of **Generative AI**, **Agentic Workflows**, a
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                              -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<br/>
+
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                        TECH STACK                            -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## 🛠️ &nbsp;Tech Stack
 
 </div>
 
@@ -208,7 +221,7 @@ My work lives at the intersection of **Generative AI**, **Agentic Workflows**, a
 
 <div align="center">
 
-### 🔤 Languages
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-Expert-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -219,7 +232,7 @@ My work lives at the intersection of **Generative AI**, **Agentic Workflows**, a
 
 <br/>
 
-### 🤖 LLM & Agentic Frameworks
+**LLM & Agentic Frameworks**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge&logo=langchain&logoColor=38BDF8)
@@ -229,7 +242,7 @@ My work lives at the intersection of **Generative AI**, **Agentic Workflows**, a
 
 <br/>
 
-### 🧠 Deep Learning & ML
+**Deep Learning & ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -243,7 +256,7 @@ My work lives at the intersection of **Generative AI**, **Agentic Workflows**, a
 
 <br/>
 
-### ☁️ Cloud & DevOps
+**Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -257,7 +270,7 @@ My work lives at the intersection of **Generative AI**, **Agentic Workflows**, a
 
 <br/>
 
-### 🗄️ Backend & Databases
+**Backend & Databases**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -276,13 +289,15 @@ My work lives at the intersection of **Generative AI**, **Agentic Workflows**, a
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATISTICS                          -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<br/>
+
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                      GITHUB STATS                            -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 📊 &nbsp;GitHub Stats
 
 </div>
 
@@ -314,13 +329,15 @@ My work lives at the intersection of **Generative AI**, **Agentic Workflows**, a
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
+<br/>
+
+<!-- ██████████████████████████████████████████████████████████████ -->
 <!--                       TROPHIES                               -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-## 🏆 Achievements
+## 🏆 &nbsp;Achievements
 
 <br/>
 
@@ -332,31 +349,33 @@ My work lives at the intersection of **Generative AI**, **Agentic Workflows**, a
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                       CONNECT                                -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<br/>
+
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                        CONNECT                               -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-## 🌐 Let's Connect
+## 🌐 &nbsp;Let's Connect
 
 <br/>
 
-<a href="https://linkedin.com/in/aditya-suyal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-suyal)
 &nbsp;
-<a href="mailto:adityasuyal@birlainstitute.co.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityasuyal@birlainstitute.co.in)
 &nbsp;
-<a href="https://github.com/Adirohansuyal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adirohansuyal)
 &nbsp;
-<a href="https://x.com/AdityaSuyal0001"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AdityaSuyal0001)
 &nbsp;
-<a href="https://instagram.com/suyal.adi_0001"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/suyal.adi_0001)
 &nbsp;
-<a href="https://reddit.com/user/Cool-Blackberry3350"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/Cool-Blackberry3350)
 
 <br/><br/>
 
-**💬 Open to:** Collaborations &nbsp;·&nbsp; AI Research &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; Consulting
+💬 &nbsp;**Open to:** &nbsp;Collaborations &nbsp;·&nbsp; AI Research &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; Consulting
 
 <br/>
 
@@ -366,8 +385,8 @@ My work lives at the intersection of **Generative AI**, **Agentic Workflows**, a
 
 </div>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                        FOOTER                                -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                         FOOTER                               -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=160&section=footer&text=Let%27s%20Build%20Intelligence%20Together&fontSize=22&fontColor=38BDF8&fontAlignY=65&animation=fadeIn"/>
