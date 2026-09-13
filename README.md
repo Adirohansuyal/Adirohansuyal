@@ -124,17 +124,17 @@
 ## 📊 GITHUB STATISTICS
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adirohansuyal&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800&include_all_commits=true" />
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Adirohansuyal&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="48%" src="https://github-stats.vercel.app/api?username=Adirohansuyal&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Adirohansuyal&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adirohansuyal&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=Adirohansuyal&theme=radical&no-frame=true&column=4&margin-w=15&rank=-C,-?" />
+  <img width="48%" src="https://github-stats.vercel.app/api/top-langs/?username=Adirohansuyal&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Adirohansuyal&theme=radical&hide_border=true&card_width=450" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adirohansuyal&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" width="95%" />
+  <img src="https://raw.githubusercontent.com/Adirohansuyal/Adirohansuyal/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
